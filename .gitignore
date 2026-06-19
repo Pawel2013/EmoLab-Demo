@@ -1,10 +1,38 @@
+# macOS
 .DS_Store
-*.log
-*.tmp
-*.bak
+
+# Editors
 .vscode/
+.idea/
+
+# Temporary and backup files
+*.tmp
+*.temp
+*.bak
+*.swp
+*.log
+
+# Environment and secrets
 .env
 .env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Application and build files that must never enter this documentation repository
 node_modules/
 dist/
 build/
+coverage/
+src/
+server/
+
+# Private or raw session data
+sessions/
+telemetry/
+private/
+raw/
+*.jsonl
+*.db
+*.sqlite

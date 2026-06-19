@@ -1,0 +1,46 @@
+cff-version: 1.2.0
+message: >-
+  If you reference EmoLab in academic, technical, or conference-related work,
+  please cite this project using the metadata below.
+
+title: "EmoLab: Interactive Multimodal Affective Analysis and Synchronized Replay"
+
+type: software
+
+authors:
+  - family-names: "Borowiec"
+    given-names: "Pawel"
+
+year: 2026
+
+version: "0.1-demo"
+
+repository-code: "https://github.com/Pawel2013/EmoLab-Demo"
+
+url: "https://github.com/Pawel2013/EmoLab-Demo"
+
+abstract: >-
+  EmoLab is an interactive research environment for synchronized inspection,
+  replay, and interpretation of multimodal affect-related telemetry. It aligns
+  source media, speech transcripts, speaker information, linguistic and
+  prosodic predictions, vocal events, facial observations, timelines, and
+  structured session-level summaries within a shared temporal representation.
+
+keywords:
+  - affective computing
+  - multimodal analysis
+  - synchronized replay
+  - human-computer interaction
+  - social signal processing
+  - speech analysis
+  - facial behaviour
+  - model inspection
+  - explainable artificial intelligence
+  - research demonstration
+
+license: "LicenseRef-Proprietary"
+
+identifiers:
+  - type: url
+    value: "https://github.com/Pawel2013/EmoLab-Demo"
+    description: "Public EmoLab demonstration and documentation repository"
