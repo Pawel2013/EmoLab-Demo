@@ -51,13 +51,9 @@ The objective is to demonstrate how model-generated affective outputs can be ins
 
 ## Planned Duration
 
-Approximately:
+A concise short-form demonstration is currently being finalized.
 
-```text
-90–150 seconds
-```
-
-The final duration may change slightly depending on the selected demonstration sequence.
+The exact duration may vary slightly depending on the final edit.
 
 ---
 
