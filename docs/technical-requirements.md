@@ -2,53 +2,60 @@
 
 ## Demonstration Format
 
-The proposed EmoLab demonstration is a laptop-based interactive research demonstration using a prepared, locally stored audiovisual session and preserved multimodal telemetry.
+EmoLab is intended to be presented as an interactive, on-site laptop demonstration using a prepared audiovisual session and preserved multimodal telemetry.
 
-## Required from the Organizer
+The primary demonstration runs locally and does not depend on the continued availability of the original external inference service.
 
-- one standard table or desk;
-- one chair;
-- one power outlet;
-- space for one laptop;
-- normal indoor lighting.
+---
 
-## Provided by the Presenter
+## On-Site Requirements
 
-- MacBook Pro;
-- local EmoLab build;
-- prepared session bundle;
-- local audio or video;
-- local telemetry;
-- adapters and power supply;
-- headphones;
-- prerecorded fallback video;
-- optional backup storage.
+The demonstration requires:
 
-## Optional
+- a standard demonstration table or desk;
+- access to one power outlet;
+- sufficient space for a laptop.
 
-- external monitor;
-- HDMI or USB-C display connectivity;
-- second chair;
-- conference Wi-Fi.
+An external monitor or display connection may improve visibility for attendees but is not required.
+
+---
+
+## Presenter-Supplied Equipment
+
+The presenter will provide:
+
+- the laptop running EmoLab;
+- the prepared session bundle and source media;
+- the laptop power adapter;
+- any adapters required for an optional external display;
+- a prerecorded fallback demonstration video.
+
+---
 
 ## Network
 
-The core demonstration does not require internet access. No dedicated server, fixed IP address, firewall modification, VPN, or special network configuration is required.
+The prepared replay demonstration runs entirely from locally stored session data and does not require internet access.
 
-## Audio
+An optional live demonstration mode may also be presented if it is sufficiently stable at the time of the conference. This mode may require access to a reliable internet connection, depending on the final deployment configuration.
 
-Audio will normally be presented through headphones. Loudspeakers are not required.
+The primary replay workflow and prerecorded fallback video remain available independently of network access.
 
-## Camera and Microphone
+No fixed IP address, VPN, firewall modification, or other special network configuration is required.
 
-A camera and microphone are not required for the primary demonstration. Any optional live interaction would require explicit prior consent.
+---
 
-## Setup
+## Audio and Additional Hardware
 
-Estimated setup time: 10–15 minutes. Estimated teardown time: 5–10 minutes.
+No conference-provided camera, microphone, loudspeaker system, specialized lighting, or other dedicated hardware is required for the primary demonstration.
 
-## Reliability Strategy
+Audio can be presented locally from the laptop or through presenter-supplied headphones, depending on the exhibition environment.
 
-1. Interactive local demonstration;
-2. stored-session fallback;
-3. prerecorded fallback video.
+---
+
+## Reliability
+
+The primary demonstration runs locally from preserved session data.
+
+An optional live mode may be shown when available and sufficiently stable.
+
+A prerecorded demonstration video will be available as a fallback.
