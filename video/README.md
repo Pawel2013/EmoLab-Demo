@@ -1,22 +1,24 @@
 # EmoLab Demonstration Video
 
-## Status
+## Video
 
-A short public demonstration video is currently being prepared.
+The completed EmoLab demonstration video is available here:
 
-The video will provide a focused overview of the EmoLab research prototype and its synchronized multimodal inspection workflow.
+**[Watch the EmoLab demonstration video](https://youtu.be/DClSY3YSNdM)**
+
+**Duration:** 3 minutes 28 seconds.
 
 ---
 
-## Planned Content
+## Demonstration Content
 
-The demonstration video will show:
+The video presents:
 
-* loading a preserved EmoLab session;
-* synchronized audiovisual replay;
+* a previously analysed dyadic audiovisual interaction;
+* synchronized deterministic replay;
 * speaker-diarized transcript inspection;
-* face timeline and tracked facial observations;
-* prosody, vocal-burst, and language timelines;
+* face-oriented timeline inspection;
+* prosody, vocal-burst, and language views;
 * emotion trajectory maps;
 * EmoiTextGraph;
 * cross-modal comparison;
@@ -27,7 +29,7 @@ The demonstration video will show:
 
 ## Demonstration Focus
 
-The video will emphasize how EmoLab connects:
+The demonstration shows how EmoLab connects:
 
 ```text
 source audiovisual interaction
@@ -43,49 +45,35 @@ cross-modal inspection
 affective-cognitive interpretation
 ```
 
-The objective is not to identify a person's “true emotion.”
+EmoLab does not claim to identify a person's “true emotion.”
 
-The objective is to demonstrate how model-generated affective outputs can be inspected, compared, replayed, and interpreted within their temporal and multimodal context.
-
----
-
-## Planned Duration
-
-A concise short-form demonstration is currently being finalized.
-
-The exact duration may vary slightly depending on the final edit.
+Its purpose is to make model-generated affect-related outputs inspectable,
+replayable, comparable, and challengeable within their temporal and
+multimodal context.
 
 ---
 
 ## Reliability
 
-The recorded demonstration will use:
+The recorded demonstration uses:
 
 * a locally stored EmoLab session;
 * locally stored source media;
 * preserved multimodal telemetry;
 * deterministic replay.
 
-The video will also serve as a fallback during the live conference demonstration.
-
----
-
-## Public Video Link
-
-The public video link will be added here when the final version is available.
-
-**Status:** In preparation.
+The video can also serve as a fallback during a live conference demonstration.
 
 ---
 
 ## Accessibility
 
-The final video is planned to include:
+The video includes:
 
-* English narration or English on-screen explanation;
-* English captions;
-* readable interface zoom;
-* clear separation between model outputs and interpretive hypotheses.
+* English narration;
+* English captions available through YouTube;
+* readable interface views;
+* explicit separation between model outputs and interpretive hypotheses.
 
 ---
 
