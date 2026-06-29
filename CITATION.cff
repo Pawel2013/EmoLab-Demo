@@ -15,9 +15,9 @@ year: 2026
 
 version: "0.1-demo"
 
-repository-code: "https://github.com/Pawel2013/EmoLab-Demo"
+repository-code: "https://github.com/pawelborowiec-research/EmoLab-Demo"
 
-url: "https://github.com/Pawel2013/EmoLab-Demo"
+url: "https://https://github.com/pawelborowiec-research/EmoLab-Demo"
 
 abstract: >-
   EmoLab is an interactive research environment for synchronized inspection,
@@ -42,5 +42,5 @@ license: "LicenseRef-Proprietary"
 
 identifiers:
   - type: url
-    value: "https://github.com/Pawel2013/EmoLab-Demo"
+    value: "https://github.com/pawelborowiec-research/EmoLab-Demo"
     description: "Public EmoLab demonstration and documentation repository"
