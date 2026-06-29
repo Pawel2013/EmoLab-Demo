@@ -373,6 +373,19 @@ No source-code license is granted through this repository.
 * [Technical Requirements](docs/technical-requirements.md)
 * [Ethics and Limitations](docs/ethics-and-limitations.md)
 * [Demo Video Information](video/README.md)
+* [Extended Abstract](paper/README.md)
+
+---
+
+## Extended Abstract
+
+An IEEE-format extended abstract describing the EmoLab system, technical contribution, demonstration workflow, and ethical limitations is available here:
+
+**[EmoLab: Synchronized Multimodal Affective Analysis and Replay](paper/EmoLab_Demo_Extended_Abstract.pdf)**
+
+The document is provided as a reusable project and demonstration paper. It has not been presented as a formally accepted or peer-reviewed publication.
+
+Additional information is available in the [Extended Abstract directory](paper/README.md).
 
 ---
 
