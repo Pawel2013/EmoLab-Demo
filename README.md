@@ -148,7 +148,7 @@ Cross-modal comparison and conflict analysis
 Affective-cognitive interpretation and reporting
 ```
 
-The proposed demonstration uses a short, previously analysed dyadic audiovisual session.
+The demonstration uses a short, previously analysed dyadic audiovisual session.
 
 During the demonstration, the presenter:
 
@@ -249,7 +249,7 @@ The prepared demonstration can run from a locally stored session bundle.
 
 The main demonstration workflow is designed to remain operational without depending on conference Wi-Fi or the continued availability of the original external inference service.
 
-A prerecorded demonstration video will also be available as a fallback.
+A prerecorded demonstration video is also available as a fallback.
 
 ---
 
@@ -318,18 +318,30 @@ See [Technical Requirements](docs/technical-requirements.md).
 
 ## Demo Video
 
-A short demonstration video is currently being prepared.
+The completed EmoLab demonstration video is now available:
 
-The video will show:
+**[Watch the EmoLab demonstration video](video/README.md)**
 
-* synchronized audiovisual replay;
-* transcript and speaker inspection;
-* multimodal timeline navigation;
-* facial observations;
+**Duration:** 3 minutes 28 seconds.
+
+The video presents:
+
+* a previously analysed dyadic audiovisual interaction;
+* synchronized deterministic replay;
+* speaker-diarized transcript inspection;
+* face-oriented timeline inspection;
+* prosody, vocal-burst, and language views;
+* emotion trajectory maps;
+* EmoiTextGraph;
 * cross-modal comparison;
-* session-level interpretation.
+* affective-cognitive interpretation;
+* session-level reporting.
 
-The public video link will be added here when available.
+The demonstration shows how preserved multimodal model outputs can be inspected,
+replayed, compared, and challenged within their temporal and multimodal context.
+
+The direct YouTube link and additional video information are provided in
+[Demo Video Information](video/README.md).
 
 ---
 
@@ -344,7 +356,7 @@ The current public repository provides:
 * screenshots;
 * technical requirements;
 * ethical and methodological information;
-* links to public videos and publications.
+* links to demonstration videos and publications.
 
 The source code is not publicly released at this stage.
 
